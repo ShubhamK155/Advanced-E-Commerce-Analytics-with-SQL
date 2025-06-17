@@ -1,4 +1,4 @@
-# Advanced-E-Commerce-Analytics-with-SQL
+# E-Commerce-Product-Insights-using-SQL
 This project involves analyzing over 6,000 e-commerce user events using advanced SQL techniques to uncover actionable insights around funnel performance, sales trends, user segmentation, and customer value.
 
 📊 Project Summary
